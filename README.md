@@ -1,4 +1,4 @@
-=== # Guitar Learning APP
+Guitar Learning APP
 ===
---- ## 吉他初學者之必學基礎
+吉他初學者之必學基礎
 ---
